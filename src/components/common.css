@@ -1,0 +1,30 @@
+.main{
+    background-color: aqua;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+
+}
+input{
+    margin:10px;
+    padding: 10px ;
+    width: 400px;
+    
+    border: 4px solid green;
+    margin-top: 50px;
+}
+.child1{
+    border: 4px solid red;
+   margin: 20px;
+   padding: 10px;
+}
+.sub{
+
+    border: 4px solid red;
+   margin: 20px;
+   padding: 30px;
+   width: 400px;
+   height: 300px;
+}
+
+
